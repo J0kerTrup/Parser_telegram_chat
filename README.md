@@ -30,7 +30,7 @@ python run.py
 
 ## 📊 Пример структуры отчёта
 
-[https://github.com/J0kerTrup/Parser_telegram_chat](https://raw.githubusercontent.com/J0kerTrup/Parser_telegram_chat/refs/heads/main/assets/Example.jpg)
+https://raw.githubusercontent.com/J0kerTrup/Parser_telegram_chat/refs/heads/main/assets/Example.jpg
 
 ## 🛠 Конфигурация
 
