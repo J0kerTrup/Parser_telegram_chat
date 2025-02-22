@@ -30,7 +30,9 @@ python run.py
 
 ## 📊 Пример структуры отчёта
 
-https://raw.githubusercontent.com/J0kerTrup/Parser_telegram_chat/refs/heads/main/assets/Example.jpg
+<img src="https://raw.githubusercontent.com/J0kerTrup/Parser_telegram_chat/refs/heads/main/assets/Example.jpg" alt="pytgcalls logo" />
+
+
 
 ## 🛠 Конфигурация
 
