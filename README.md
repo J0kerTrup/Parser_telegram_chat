@@ -64,5 +64,5 @@ cd telegram-parser
 
 ---
 
-Если у вас есть вопросы или предложения, пишите в [https://t.me/+LJRvaIglUiFkODJi](https://t.me/+LJRvaIglUiFkODJi) 🚀 
+Если у вас есть вопросы или предложения, пишите в [[https://t.me/+LJRvaIglUiFkODJi](https://t.me/+Y3QqgFVt0Q5jZjVi)] 🚀 
 
